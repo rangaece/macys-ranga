@@ -1,1 +1,1 @@
-echo `cal` 
+echo 'Welcome to Learning section' 
